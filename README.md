@@ -8,7 +8,7 @@ In this project I have created a web project where a person can book a doctor's 
 ## Method
 
 - Clone or download the repository to any port you have apache (or any php), example- localhost:80 
-- import the sql table from the SQL DATABASE EXPORT folder to localhost/phpmyadmin
+- import the sql table from the SQL DATABASE EXPORT folder in the datalayer folder to localhost/phpmyadmin
 - in your browser tab run 
 ```sh
 http://localhost/DoctorAppointment/applicationlayer/index.php
